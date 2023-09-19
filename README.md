@@ -15,3 +15,5 @@ https://github.com/kiwi-ki-ki/Perceptions-of-Emotion/assets/142944301/edf71d51-1
 The experiment was run through PsychoPY, which utilizes Python, the data was collected vis Pavlovia, and the data analysis was done in R utilizing R studio. 
 
 The attached files inlcude the raw data extracted from Pavlovia, the data analysis in R, and the final paper summarizing the replica study. 
+
+Contributors: Kiera Wingo & Dr. Matthew Robison
