@@ -1,6 +1,6 @@
 # Perceptions-of-Emotion
 
-This indipendent project was a replica of a 2011 study done by Lott et. al., determining people's ability to percieve facial and bodily emotions. 
+This independent project was a replica of a 2011 study done by Lott et. al., determining people's ability to percieve facial and bodily expressions as emotions. 
 
 Participants completed two trials, one for facial expressions and one for body language, after being shown a vignette the participants were given three emotion choices, anger, happiness, or sadness, and the participants were to choose one of the three emotions. The perticipants were tested on accuracy and response time. 
 
