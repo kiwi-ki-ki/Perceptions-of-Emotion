@@ -16,4 +16,4 @@ The experiment was built on PsychoPY utilizing Python and hosted on Pavlovia for
 
 The attached files inlcude the raw data extracted from Pavlovia, the data analysis in R, and the final paper summarizing the replicated study. 
 
-Contributors: Kiera Wingo & Dr. Matthew Robison from the department of Psychology at The Univeristy of Texas at Arlington. 
+Contributors: Kiera Wingo & Dr. Matthew Robison from the department of Psychology at The University of Texas at Arlington. 
